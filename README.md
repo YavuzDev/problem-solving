@@ -1,2 +1,2 @@
 A collection of my own implementation for several puzzle like problems and algorithm problems.
-This just exists for my own interest in solving problems.
+This just exists for my own interest in solving problems. There is no focus on code quality, but there is a slight focus on performance.
